@@ -1,5 +1,5 @@
 # livesoccerscore-ntvspor
-A nodejs implemented project that periodically gets soccer score json data from ntvspor.net and displays in a static page it via socket.io. 
+A nodejs implemented project that periodically gets daily soccer live scores and results data from ntvspor.net and displays in a static page it via socket.io. 
 ## Running the example
 
     $ npm install
