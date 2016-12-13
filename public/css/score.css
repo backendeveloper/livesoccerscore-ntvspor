@@ -1,0 +1,9 @@
+body { font: 14px/1.4 "Lucida Grande", "Helvetica Neue", Arial, sans-serif; padding: 50px 180px; background-color:#000; } 
+			#divTable{ display: table;	width: 350px; background-color:#FFFFFF;}
+			.divTableRow {display: table-row;}
+			#divTableBody {	display: table-row-group;}
+			.divTableCell {display: table-cell;	padding: 3px 10px; text-decoration:none; color:#000000; background-color:#FFFFFF; line-height:30px; border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#CCCCCC;  ; white-space: nowrap;  overflow: hidden;}
+			.home { text-align: left; width:35%;}
+			.away { text-align: right; width:35%;}
+			.score { text-align: center; width:15%;}
+			.time { text-align: center; width:15%; border-right-style:solid; border-right-width:1px; border-right-color:#CCCCCC;}
